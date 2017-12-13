@@ -1,1 +1,2 @@
-# pivotal-workshop
+# cf-dev-workshop
+Dev Workshop docs
